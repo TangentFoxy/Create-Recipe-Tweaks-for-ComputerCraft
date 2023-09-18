@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {"item": "createaddition:copper_wire"},
+    "R": {"tag": "forge:dusts/redstone"},
+    "A": {"item": "create:andesite_alloy"}
+  },
+  "pattern": [" C ", "ARA", " C "],
+  "result": {"count": 3, "item": "computercraft:cable"},
+  "show_notification": true
+}

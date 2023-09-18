@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "create:golden_sheet"},
+    "M": {"item": "computercraft:monitor_advanced"},
+    "P": {"item": "create:precision_mechanism"},
+    "R": {"item": "create:redstone_contact"}
+  },
+  "pattern": ["#R#", "#P#", "#M#"],
+  "result": {"item": "computercraft:computer_advanced"},
+  "show_notification": true
+}

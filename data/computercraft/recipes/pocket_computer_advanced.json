@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "create:sturdy_sheet"},
+    "A": {"item": "createaddition:modular_accumulator"},
+    "P": {"item": "create:precision_mechanism"},
+    "M": {"item": "computercraft:monitor_advanced"}
+  },
+  "pattern": ["#P#", "APA", "#M#"],
+  "result": {"item": "computercraft:pocket_computer_advanced"},
+  "show_notification": true
+}

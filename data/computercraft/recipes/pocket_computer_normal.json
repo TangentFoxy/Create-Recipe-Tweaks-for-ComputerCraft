@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "createaddition:zinc_sheet"},
+    "C": {"item": "computercraft:computer_normal"},
+    "A": {"item": "createaddition:capacitor"},
+    "G": {"item": "create:super_glue"},
+    "B": {"item": "create:clipboard"}
+  },
+  "pattern": ["#B#", "AGA", "#C#"],
+  "result": {"item": "computercraft:pocket_computer_normal"},
+  "show_notification": true
+}

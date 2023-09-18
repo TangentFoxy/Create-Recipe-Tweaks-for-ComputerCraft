@@ -1,0 +1,14 @@
+{
+  "type": "computercraft:computer_upgrade",
+  "category": "redstone",
+  "family": "ADVANCED",
+  "key": {
+    "#": {"item": "create:golden_sheet"},
+    "M": {"item": "computercraft:monitor_advanced"},
+    "B": {"item": "minecraft:redstone_block"},
+    "C": {"item": "computercraft:computer_normal"}
+  },
+  "pattern": ["#C#", "#B#", "#M#"],
+  "result": {"item": "computercraft:computer_advanced"},
+  "show_notification": true
+}

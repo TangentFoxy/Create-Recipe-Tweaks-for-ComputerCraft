@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "create:copper_casing"},
+    "P": {"item": "create_enchantment_industry:printer"},
+    "M": {"item": "create:precision_mechanism"}
+  },
+  "pattern": ["###", "#M#", "#P#"],
+  "result": {"item": "computercraft:printer"},
+  "show_notification": true
+}

@@ -1,0 +1,15 @@
+{
+  "type": "computercraft:turtle",
+  "category": "redstone",
+  "family": "NORMAL",
+  "key": {
+    "#": {"item": "create:sturdy_sheet"},
+    "C": {"item": "computercraft:computer_normal"},
+    "I": {"item": "create:item_vault"},
+    "B": {"item": "create:belt_connector"},
+    "G": {"item": "create:gearshift"}
+  },
+  "pattern": ["#C#", "BGB", "#I#"],
+  "result": {"item": "computercraft:turtle_normal"},
+  "show_notification": true
+}

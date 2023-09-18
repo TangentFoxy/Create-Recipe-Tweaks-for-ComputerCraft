@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "create:golden_sheet"},
+    "M": {"item": "computercraft:monitor_advanced"},
+    "R": {"item": "minecraft:command_block"}
+  },
+  "pattern": ["###", "#R#", "#M#"],
+  "result": {"item": "computercraft:computer_command"},
+  "show_notification": true
+}

@@ -1,0 +1,16 @@
+{
+  "type": "computercraft:turtle",
+  "category": "redstone",
+  "family": "ADVANCED",
+  "key": {
+    "#": {"item": "create:sturdy_sheet"},
+    "C": {"item": "computercraft:computer_advanced"},
+    "I": {"item": "create:item_vault"},
+    "B": {"item": "create:belt_connector"},
+    "P": {"item": "create:precision_mechanism"},
+    "G": {"item": "create:gearshift"}
+  },
+  "pattern": ["#C#", "BGB", "PIP"],
+  "result": {"item": "computercraft:turtle_advanced"},
+  "show_notification": true
+}

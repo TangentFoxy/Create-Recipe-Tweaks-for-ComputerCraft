@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "create:andesite_casing"},
+    "N": {"item": "minecraft:jukebox"},
+    "R": {"tag": "forge:dusts/redstone"}
+  },
+  "pattern": ["###", "#N#", "#R#"],
+  "result": {"item": "computercraft:speaker"},
+  "show_notification": true
+}

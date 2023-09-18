@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "create:andesite_casing"},
+    "G": {"tag": "forge:glass"},
+    "D": {"item": "create:display_board"}
+  },
+  "pattern": ["###", "#D#", "#G#"],
+  "result": {"item": "computercraft:monitor_normal"},
+  "show_notification": true
+}

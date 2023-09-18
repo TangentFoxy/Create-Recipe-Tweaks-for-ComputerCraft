@@ -1,0 +1,15 @@
+{
+  "type": "computercraft:computer_upgrade",
+  "category": "redstone",
+  "family": "ADVANCED",
+  "key": {
+    "#": {"item": "create:sturdy_sheet"},
+    "C": {"item": "computercraft:pocket_computer_normal"},
+    "A": {"item": "createaddition:modular_accumulator"},
+    "R": {"item": "minecraft:redstone_block"},
+    "M": {"item": "computercraft:monitor_advanced"}
+  },
+  "pattern": ["#C#", "ARA", "#M#"],
+  "result": {"item": "computercraft:pocket_computer_advanced"},
+  "show_notification": true
+}

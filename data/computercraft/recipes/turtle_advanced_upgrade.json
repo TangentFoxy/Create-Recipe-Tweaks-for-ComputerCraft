@@ -1,0 +1,14 @@
+{
+  "type": "computercraft:computer_upgrade",
+  "category": "redstone",
+  "family": "ADVANCED",
+  "key": {
+    "#": {"item": "create:golden_sheet"},
+    "G": {"item": "create:gearbox"},
+    "C": {"item": "computercraft:turtle_normal"},
+    "T": {"item": "create:turntable"}
+  },
+  "pattern": ["#C#", "#G#", "#T#"],
+  "result": {"item": "computercraft:turtle_advanced"},
+  "show_notification": true
+}

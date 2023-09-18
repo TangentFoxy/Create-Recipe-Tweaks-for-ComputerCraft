@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "create:brass_casing"},
+    "M": {"item": "computercraft:monitor_normal"},
+    "R": {"item": "create:redstone_contact"},
+    "B": {"item": "minecraft:redstone_block"}
+  },
+  "pattern": ["#R#", "#B#", "#M#"],
+  "result": {"item": "computercraft:computer_normal"},
+  "show_notification": true
+}

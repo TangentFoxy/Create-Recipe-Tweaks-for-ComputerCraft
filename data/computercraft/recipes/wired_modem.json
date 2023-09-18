@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "create:andesite_alloy"},
+    "R": {"item": "createaddition:redstone_relay"}
+  },
+  "pattern": ["###", "#R#", "###"],
+  "result": {"item": "computercraft:wired_modem"},
+  "show_notification": true
+}
